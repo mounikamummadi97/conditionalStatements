@@ -1,0 +1,15 @@
+D:\c# code\conditional statements\conditional statements\bin\Debug\net6.0\conditional statements.exe
+D:\c# code\conditional statements\conditional statements\bin\Debug\net6.0\conditional statements.deps.json
+D:\c# code\conditional statements\conditional statements\bin\Debug\net6.0\conditional statements.runtimeconfig.json
+D:\c# code\conditional statements\conditional statements\bin\Debug\net6.0\conditional statements.dll
+D:\c# code\conditional statements\conditional statements\bin\Debug\net6.0\conditional statements.pdb
+D:\c# code\conditional statements\conditional statements\obj\Debug\net6.0\conditional statements.csproj.AssemblyReference.cache
+D:\c# code\conditional statements\conditional statements\obj\Debug\net6.0\conditional statements.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# code\conditional statements\conditional statements\obj\Debug\net6.0\conditional statements.AssemblyInfoInputs.cache
+D:\c# code\conditional statements\conditional statements\obj\Debug\net6.0\conditional statements.AssemblyInfo.cs
+D:\c# code\conditional statements\conditional statements\obj\Debug\net6.0\conditional statements.csproj.CoreCompileInputs.cache
+D:\c# code\conditional statements\conditional statements\obj\Debug\net6.0\conditional statements.dll
+D:\c# code\conditional statements\conditional statements\obj\Debug\net6.0\refint\conditional statements.dll
+D:\c# code\conditional statements\conditional statements\obj\Debug\net6.0\conditional statements.pdb
+D:\c# code\conditional statements\conditional statements\obj\Debug\net6.0\conditional statements.genruntimeconfig.cache
+D:\c# code\conditional statements\conditional statements\obj\Debug\net6.0\ref\conditional statements.dll
